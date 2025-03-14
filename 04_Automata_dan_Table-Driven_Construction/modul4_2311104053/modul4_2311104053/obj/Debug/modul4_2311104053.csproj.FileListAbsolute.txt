@@ -1,0 +1,7 @@
+C:\Users\lenov\source\repos\modul4_2311104053\modul4_2311104053\bin\Debug\modul4_2311104053.exe.config
+C:\Users\lenov\source\repos\modul4_2311104053\modul4_2311104053\bin\Debug\modul4_2311104053.exe
+C:\Users\lenov\source\repos\modul4_2311104053\modul4_2311104053\bin\Debug\modul4_2311104053.pdb
+C:\Users\lenov\source\repos\modul4_2311104053\modul4_2311104053\obj\Debug\modul4_2311104053.csproj.AssemblyReference.cache
+C:\Users\lenov\source\repos\modul4_2311104053\modul4_2311104053\obj\Debug\modul4_2311104053.csproj.CoreCompileInputs.cache
+C:\Users\lenov\source\repos\modul4_2311104053\modul4_2311104053\obj\Debug\modul4_2311104053.exe
+C:\Users\lenov\source\repos\modul4_2311104053\modul4_2311104053\obj\Debug\modul4_2311104053.pdb
