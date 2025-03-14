@@ -1,0 +1,15 @@
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\bin\Debug\net8.0\tpmodul4_2311104053.exe
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\bin\Debug\net8.0\tpmodul4_2311104053.deps.json
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\bin\Debug\net8.0\tpmodul4_2311104053.runtimeconfig.json
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\bin\Debug\net8.0\tpmodul4_2311104053.dll
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\bin\Debug\net8.0\tpmodul4_2311104053.pdb
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\obj\Debug\net8.0\tpmodul4_2311104053.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\obj\Debug\net8.0\tpmodul4_2311104053.AssemblyInfoInputs.cache
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\obj\Debug\net8.0\tpmodul4_2311104053.AssemblyInfo.cs
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\obj\Debug\net8.0\tpmodul4_2311104053.csproj.CoreCompileInputs.cache
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\obj\Debug\net8.0\tpmodul4_2311104053.sourcelink.json
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\obj\Debug\net8.0\tpmodul4_2311104053.dll
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\obj\Debug\net8.0\refint\tpmodul4_2311104053.dll
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\obj\Debug\net8.0\tpmodul4_2311104053.pdb
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\obj\Debug\net8.0\tpmodul4_2311104053.genruntimeconfig.cache
+C:\Users\lenov\source\repos\tpmodul4_2311104053\tpmodul4_2311104053\obj\Debug\net8.0\ref\tpmodul4_2311104053.dll
