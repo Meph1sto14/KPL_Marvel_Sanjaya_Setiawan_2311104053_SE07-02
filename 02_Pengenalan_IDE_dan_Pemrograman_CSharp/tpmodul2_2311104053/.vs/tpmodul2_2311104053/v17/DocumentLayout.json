@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenov\\source\\repos\\tpmodul2_2311104053\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83943ACD-4822-4042-A813-0AB2038869B9}|tpmodul2_2311104053\\tpmodul2_2311104053.csproj|c:\\users\\lenov\\source\\repos\\tpmodul2_2311104053\\tpmodul2_2311104053\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83943ACD-4822-4042-A813-0AB2038869B9}|tpmodul2_2311104053\\tpmodul2_2311104053.csproj|solutionrelative:tpmodul2_2311104053\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\source\\repos\\tpmodul2_2311104053\\tpmodul2_2311104053\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul2_2311104053\\Program.cs",
+              "ToolTip": "C:\\Users\\lenov\\source\\repos\\tpmodul2_2311104053\\tpmodul2_2311104053\\Program.cs",
+              "RelativeToolTip": "tpmodul2_2311104053\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:45:49.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
