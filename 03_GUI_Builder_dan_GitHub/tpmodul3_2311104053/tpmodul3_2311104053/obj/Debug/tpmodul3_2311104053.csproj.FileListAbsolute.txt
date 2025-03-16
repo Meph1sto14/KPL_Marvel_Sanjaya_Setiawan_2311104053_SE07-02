@@ -1,0 +1,10 @@
+C:\Users\lenov\source\repos\tpmodul3_2311104053\tpmodul3_2311104053\bin\Debug\tpmodul3_2311104053.exe.config
+C:\Users\lenov\source\repos\tpmodul3_2311104053\tpmodul3_2311104053\bin\Debug\tpmodul3_2311104053.exe
+C:\Users\lenov\source\repos\tpmodul3_2311104053\tpmodul3_2311104053\bin\Debug\tpmodul3_2311104053.pdb
+C:\Users\lenov\source\repos\tpmodul3_2311104053\tpmodul3_2311104053\obj\Debug\tpmodul3_2311104053.csproj.AssemblyReference.cache
+C:\Users\lenov\source\repos\tpmodul3_2311104053\tpmodul3_2311104053\obj\Debug\tpmodul3_2311104053.Form1.resources
+C:\Users\lenov\source\repos\tpmodul3_2311104053\tpmodul3_2311104053\obj\Debug\tpmodul3_2311104053.Properties.Resources.resources
+C:\Users\lenov\source\repos\tpmodul3_2311104053\tpmodul3_2311104053\obj\Debug\tpmodul3_2311104053.csproj.GenerateResource.cache
+C:\Users\lenov\source\repos\tpmodul3_2311104053\tpmodul3_2311104053\obj\Debug\tpmodul3_2311104053.csproj.CoreCompileInputs.cache
+C:\Users\lenov\source\repos\tpmodul3_2311104053\tpmodul3_2311104053\obj\Debug\tpmodul3_2311104053.exe
+C:\Users\lenov\source\repos\tpmodul3_2311104053\tpmodul3_2311104053\obj\Debug\tpmodul3_2311104053.pdb
