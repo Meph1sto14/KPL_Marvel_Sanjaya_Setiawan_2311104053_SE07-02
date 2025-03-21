@@ -30,6 +30,8 @@ namespace modul6_2311104053
 
             checked
             {
+                if (playCount + count > int.MaxValue)
+                    throw new OverflowException("Jumlah play count melebihi batas maksimum integer.");
                 playCount += count;
             }
         }
