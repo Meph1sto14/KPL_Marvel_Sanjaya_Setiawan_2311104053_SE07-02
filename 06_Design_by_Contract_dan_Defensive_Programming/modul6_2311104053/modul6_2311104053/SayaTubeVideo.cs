@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace modul6_2311104053
 {
@@ -38,7 +34,19 @@ namespace modul6_2311104053
 
         public void PrintVideoDetails()
         {
-            Console.WriteLine($"ID: {id}, Title: {title}, Play Count: {playCount}");
+            Console.WriteLine($"ID: {id}");
+            Console.WriteLine($"Title: {title}");
+            Console.WriteLine($"Play Count: {playCount}");
+        }
+
+        public int GetPlayCount()
+        {
+            return playCount;
+        }
+
+        public string GetTitle()
+        {
+            return title;
         }
     }
 }

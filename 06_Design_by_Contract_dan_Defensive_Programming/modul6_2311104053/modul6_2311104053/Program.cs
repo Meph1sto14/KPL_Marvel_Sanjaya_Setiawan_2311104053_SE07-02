@@ -4,29 +4,24 @@ namespace modul6_2311104053
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            try
-            {
-                SayaTubeUser user = new SayaTubeUser("Marvel Sanjaya Setiawan");
+            SayaTubeUser user = new SayaTubeUser("Marvel Sanjaya Setiawan");
 
-                for (int i = 1; i <= 10; i++)
-                {
-                    SayaTubeVideo video = new SayaTubeVideo($"Review Film {i} oleh Marvel Sanjaya Setiawan");
-                    user.AddVideo(video);
-                }
+            user.AddVideo(new SayaTubeVideo("The Dark Knight"));
+            user.AddVideo(new SayaTubeVideo("Inception"));
+            user.AddVideo(new SayaTubeVideo("Interstellar"));
+            user.AddVideo(new SayaTubeVideo("Avengers: Endgame"));
+            user.AddVideo(new SayaTubeVideo("The Matrix"));
+            user.AddVideo(new SayaTubeVideo("Spider-Man: No Way Home"));
+            user.AddVideo(new SayaTubeVideo("Parasite"));
+            user.AddVideo(new SayaTubeVideo("Joker"));
+            user.AddVideo(new SayaTubeVideo("Tenet"));
+            user.AddVideo(new SayaTubeVideo("The Shawshank Redemption"));
 
-                user.PrintAllVideoPlaycount();
+            user.PrintAllVideoPlaycount();
 
-                SayaTubeVideo videoTest = new SayaTubeVideo("Test Video");
-                videoTest.IncreasePlayCount(25000001);
-
-                user.PrintAllVideoPlaycount();
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Error: {ex.Message}");
-            }
+            Console.ReadKey();
         }
     }
 }
