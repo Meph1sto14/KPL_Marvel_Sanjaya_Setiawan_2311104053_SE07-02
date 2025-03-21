@@ -8,11 +8,11 @@ namespace modul6_2311104053
         {
             try
             {
-                SayaTubeUser user = new SayaTubeUser("Nama Praktikan");
+                SayaTubeUser user = new SayaTubeUser("Marvel Sanjaya Setiawan");
 
                 for (int i = 1; i <= 10; i++)
                 {
-                    SayaTubeVideo video = new SayaTubeVideo($"Review Film {i} oleh Nama Praktikan");
+                    SayaTubeVideo video = new SayaTubeVideo($"Review Film {i} oleh Marvel Sanjaya Setiawan");
                     user.AddVideo(video);
                 }
 
