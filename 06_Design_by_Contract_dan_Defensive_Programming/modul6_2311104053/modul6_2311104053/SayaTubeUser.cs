@@ -40,12 +40,13 @@ namespace modul6_2311104053
 
         public void PrintAllVideoPlaycount()
         {
-            Console.WriteLine($"\"User: {username}\"");
-            for (int i = 0; i < Math.Min(uploadedVideos.Count, 10); i++)
+            Console.WriteLine($"User: {username}");
+            Console.WriteLine("Daftar Video:");
+
+            for (int i = 0; i < Math.Min(uploadedVideos.Count, 8); i++)
             {
-                Console.WriteLine($"\"Video {i + 1} judul: {uploadedVideos[i].GetTitle()}\"");
+                Console.WriteLine($"[{i + 1}] {uploadedVideos[i].GetTitle()} - Play Count: {uploadedVideos[i].GetPlayCount()}");
             }
         }
-
     }
 }

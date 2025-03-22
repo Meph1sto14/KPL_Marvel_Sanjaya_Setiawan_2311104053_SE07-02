@@ -22,13 +22,20 @@ namespace modul6_2311104053
         public void IncreasePlayCount(int count)
         {
             if (count < 0 || count > 25000000)
-                throw new ArgumentException("Play count harus antara 0 dan 25.000.000.");
+                throw new ArgumentException("Play count harus antara 1 dan 25.000.000.");
 
             checked
             {
-                if (playCount + count > int.MaxValue)
-                    throw new OverflowException("Jumlah play count melebihi batas maksimum integer.");
-                playCount += count;
+                try
+                {
+                    if (playCount + count > int.MaxValue)
+                        throw new OverflowException("Jumlah play count melebihi batas maksimum integer.");
+                    playCount += count;
+                }
+                catch (OverflowException ex)
+                {
+                    Console.WriteLine($"Exception caught: {ex.Message}");
+                }
             }
         }
 
@@ -39,14 +46,7 @@ namespace modul6_2311104053
             Console.WriteLine($"Play Count: {playCount}");
         }
 
-        public int GetPlayCount()
-        {
-            return playCount;
-        }
-
-        public string GetTitle()
-        {
-            return title;
-        }
+        public int GetPlayCount() => playCount;
+        public string GetTitle() => title;
     }
 }
